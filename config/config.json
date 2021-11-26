@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x5280C40Ea7ddBC5390218E73c4dB6C12fe43dca0",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x5280C40Ea7ddBC5390218E73c4dB6C12fe43dca0",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "BSC Testnet",
+    "SYMBOL": "BNB",
+    "ID": 97
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
+  "NFT_NAME": "African Heroes",
+  "SYMBOL": "BNUG",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.075,
